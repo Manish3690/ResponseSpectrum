@@ -1,2 +1,2 @@
 # ResponseSpectra
- This is written basically for learning purpose.
+ Written from scratch basically for learning purpose.
